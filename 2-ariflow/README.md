@@ -8,7 +8,7 @@
 - Определить, на каком месте находится домен airflow.com
 
 2. Games_analytics
-Исходные данные: https://git.lab.karpov.courses/lab/airflow/-/blob/master/dags/a.batalov/vgsales.csv
+Исходные данные: vgsales.csv
 Таски:
 - Определить, какая игра была самой продаваемой в этом году во всем мире?
 - Определить, игры какого жанра были самыми продаваемыми в Европе? 
