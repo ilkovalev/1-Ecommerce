@@ -11,7 +11,6 @@ TOP_1M_DOMAINS_FILE = 'top-1m.csv'
 
 
 def get_data():
-    # Здесь пока оставили запись в файл, как передавать переменую между тасками будет в третьем уроке
     top_doms = pd.read_csv(TOP_1M_DOMAINS)
     top_data = top_doms.to_csv(index=False)
 
